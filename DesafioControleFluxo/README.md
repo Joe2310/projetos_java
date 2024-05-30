@@ -1,18 +1,12 @@
-## Getting Started
+## Projeto Controel de fluxo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem vindo ao projeto controle de fluxo.
 
-## Folder Structure
+## Pastas neste repositório:
 
-The workspace contains two folders by default, where:
+Contèm duas pastas, onde:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `src`: Contèm o còdigo do projeto.
+- `bin`: Contèm o còdigo compilado.
+Neste projeto proposto por DIO, temos o controle fe fluxo a partir de duas entradas de numeros inteiros,
+onde subtraindo a segunda entrada pela primeira entrada temos um valor inteiro, que serà a quantidade de repetiçôes. 
